@@ -1,3 +1,19 @@
-# node-todo
+# node-todo-cicd
 
-a nodejs project to understand CI/CD pipeline with Jenkins, Git, Docker, AWS
+Run these commands:
+
+
+`sudo apt install nodejs`
+
+
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+
+or Run by docker compose
+
+test
+
